@@ -9,7 +9,7 @@
 title: Johnny's blog
 description: This is a place where I share what I have learned on the internet.
 github_username: jcytong
-baseurl: blog
+baseurl:
 
 # Email and twitter are optional:
 email:
